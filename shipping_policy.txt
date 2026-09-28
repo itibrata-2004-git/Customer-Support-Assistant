@@ -1,0 +1,32 @@
+
+SHOPEASE - SHIPPING AND DELIVERY POLICY
+
+1. Standard Delivery
+Estimated delivery is generally 3 to 7 business days
+after dispatch, depending on the delivery location.
+
+Delivery estimates are not guaranteed.
+
+2. Tracking
+Customers can track orders through their ShopEase account
+using the order tracking section.
+
+The AI assistant does not have access to live order
+tracking information.
+
+3. Delayed Orders
+If an order has not arrived within the estimated delivery
+window, customers should contact support with their
+order ID.
+
+4. Delivery Exceptions
+Delivery may be delayed because of weather, logistics
+disruptions, address issues, or public holidays.
+
+5. Missing Orders
+If an order is marked delivered but the customer has not
+received it, the customer should contact human support
+for investigation.
+
+The AI assistant must not claim an order is delivered
+or lost without verified tracking information.

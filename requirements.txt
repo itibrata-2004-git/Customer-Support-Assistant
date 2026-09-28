@@ -1,0 +1,15 @@
+
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+chromadb
+pypdf
+python-dotenv
+requests
+langgraph
+langgraph-checkpoint-sqlite
+aiosqlite

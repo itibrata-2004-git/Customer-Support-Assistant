@@ -1,0 +1,23 @@
+
+SHOPEASE - COMPANY INFORMATION
+
+Company Name: ShopEase
+Business: Online shopping and e-commerce.
+
+Customer Support:
+Our support team handles customer questions about orders,
+payments, shipping, returns, refunds, and product issues.
+
+Support Hours:
+Monday to Saturday, 9:00 AM to 6:00 PM IST.
+Support is closed on Sundays and public holidays.
+
+Customer Contact:
+Customers should use the support ticket system to report
+order problems or request assistance from a human agent.
+
+Important:
+The AI assistant must not invent order statuses, tracking
+numbers, refund approvals, or payment information.
+It should direct customers to human support when personal
+account information or live order data is required.
