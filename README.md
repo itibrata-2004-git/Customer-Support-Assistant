@@ -205,7 +205,7 @@ The application has been run locally with the chatbot and admin dashboard on sep
 
 **Itibrata Sahoo**
 
-GitHub: [Itibrata-2004-git](https://github.com/Itibrata-2004-git)
+GitHub: [itibrata-2004-git](https://github.com/itibrata-2004-git)
 
 ---
 
